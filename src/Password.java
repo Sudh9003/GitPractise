@@ -8,6 +8,8 @@ public class Password {
 		String s= "Sudhanshu Sinha";
 		System.out.println(s.replace(" ",""));
 		String name[]= s.split(" ");
+		String fName= s.split(" ")[0];
+		System.out.println(fName);
 		
 		int i;
 		for(i=0;i<name.length;i++);
