@@ -9,8 +9,10 @@ public class Password {
 		System.out.println(s.replace(" ",""));
 		String name[]= s.split(" ");
 		String fName= s.split(" ")[0];
-		System.out.println(fName);
-		
+		System.out.println("Hi How Are You");
+		System.out.println("Doing Good");
+		System.out.println("Havyfk");
+		System.out.println("srgbbary");
 		int i;
 		for(i=0;i<name.length;i++);
 		{
