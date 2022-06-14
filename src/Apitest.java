@@ -5,7 +5,7 @@ public class Apitest {
 			System.out.println("API Test");
 		}
 	
-	public void anotherFumnctin() {
+	public void anotherFunctin() {
 		System.out.println("API Test 2");
 	}
 	}
