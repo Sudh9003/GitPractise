@@ -11,8 +11,7 @@ public class Password {
 		System.out.println(name[0]);
 		String fName= s.split(" ")[0];
 		System.out.println(fName);
-		System.out.println("Hi How Are You");
-		System.out.println("Doing Good");
+		
 		
 		
 		
