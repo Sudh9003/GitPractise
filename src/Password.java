@@ -13,7 +13,7 @@ public class Password {
 		System.out.println(fName);
 		System.out.println("Hi How Are You");
 		System.out.println("Doing Good");
-		System.out.println("Havyfk");
+		
 		
 		
 		int i;
